@@ -29,3 +29,4 @@ print(res)"""
     return c
 res=mul(10,20)
 print(res) """
+#completed
